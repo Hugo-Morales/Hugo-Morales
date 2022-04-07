@@ -1,6 +1,6 @@
 <h3 align="center">Acerca de mí</h3>
 
-- 🔭 Actualmente estoy en un Proyecto Grupal [HumbleFood](https://humblefood.vercel.app/)
+- 🔭 Proyecto Grupal [HumbleFood](https://humblefood.vercel.app/)
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript, Tailwind**
 
