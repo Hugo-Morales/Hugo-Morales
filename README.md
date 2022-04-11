@@ -1,11 +1,13 @@
 <h3 align="center">Acerca de mí</h3>
 
-- 🔭 Proyecto Grupal [HumbleFood](https://humblefood.vercel.app/)
-
-- 🌱 Actualmente estoy aprendiendo **TypeScript, Tailwind**
+- 🌱 Actualmente estoy aprendiendo **TypeScript**
 
 - 👨‍💻 Todos mis proyectos:
 - PI - Country [Country](https://www.linkedin.com/feed/update/urn:li:activity:6900068624451915776/)
+- Proyecto Grupal [HumbleFood](https://humblefood.vercel.app/)
+
+- Portafolio:
+- Azure (En construcción) [Azure](https://portafolio-azure.vercel.app/)
 
 - 📫 Como contactarme **hugoacevedo46.46@gmail.com**
 
