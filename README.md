@@ -6,7 +6,7 @@
 - PI - Country [Country](https://www.linkedin.com/feed/update/urn:li:activity:6900068624451915776/)
 - Proyecto Grupal [HumbleFood](https://humblefood.vercel.app/)
 
-- Portafolio: Azure [Azure](https://portafolio-azure.vercel.app/)
+- Portafolio: [Portafolio](https://portafolio-azure.vercel.app/)
 
 - 📫 Como contactarme **hugoacevedo46.46@gmail.com**
 
