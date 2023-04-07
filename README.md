@@ -105,6 +105,9 @@
             <a href="https://github.com/Hugo-Morales/PI--Country">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hugo-Morales&repo=PI--Country&theme=tokyonight" alt="GitHub Stats" />
             </a>
+	    <a href="https://github.com/Hugo-Morales/wordle-clone">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hugo-Morales&repo=wordle-clone&theme=tokyonight" alt="GitHub Stats" />
+            </a>
         </p>
     </div>
 </details>
