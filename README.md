@@ -16,7 +16,7 @@
 
 - Soy un Programador Fullstack orientado al diseño Front-end.
 - Portafolio [link](https://portafolio-azure.vercel.app/)
-- Mis proyectos: [Humble-Food](https://humblefood.vercel.app/) [Pi-Country](https://www.linkedin.com/feed/update/urn:li:activity:6900068624451915776/)
+- Mis proyectos: [Humble-Food](https://humblefood.vercel.app/) || [Pi-Country](https://www.linkedin.com/feed/update/urn:li:activity:6900068624451915776/) || [Wordle Clon](https://wordle-clone-six-theta.vercel.app/)
 
 <br><br>
 
