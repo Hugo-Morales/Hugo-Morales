@@ -117,13 +117,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="width: 100%">
 <br><br>
 
-<!-- Redes Sociales -->
+<!-- Redes Sociales
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-mauricio-morales/)
 <a href="mailto:hugoacevedo46.46@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  hugo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail />
 </a>
-
+ -->
 
 <br>
 Last Edited on: 20/02/2023
